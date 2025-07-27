@@ -1,0 +1,804 @@
+{
+  "metadata": {
+    "input_documents": [
+      "MINI1 REPORT.pdf",
+      "519ML.pdf"
+    ],
+    "project_title": "Graph Neural Networks for Drug Discovery",
+    "processing_timestamp": "2025-07-26T19:20:19.108836+00:00"
+  },
+  "ranked_sections": [
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 31,
+      "section_title": "5.1ProblemFormulation",
+      "importance_rank": 1,
+      "score": 0.103890374667322,
+      "refined_text": "Sincethenetworkiscomposedofmultiplecontrollers,andeachswitchismanagedby exactlyonecontroller,eachcontrollerhasonlyapartialviewofthenetwork.Tosynthesiz"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 32,
+      "section_title": "Networks",
+      "importance_rank": 2,
+      "score": 0.08626523168435825,
+      "refined_text": "Simulatedannealingisametaheuristicoptimizationtechniqueinspiredbytheprocessof annealinginSDN.Itinvolvesiterativelyexploringandrefiningsolutionstofindn"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "placement problem in software‐deﬁned",
+      "importance_rank": 3,
+      "score": 0.0635404384764314,
+      "refined_text": "networking: A survey\", Networks, 2021 Publication Submitted to South Bank University 1 < 31 % Student Paper Bala Prakasa Rao Killi, Seela 1 < 32 % Vee"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "bySimulated Annealing toSolve SPP inPacket",
+      "importance_rank": 4,
+      "score": 0.06349513140425626,
+      "refined_text": "Networks\", Springer Science and Business Media LLC, 2022 Publication Joshua Jacob, Sumedha Shinde, Narayan D.G.. 1 < 34 % \"An Eﬃcient Controller Place"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Abha Kumari, Ashok Singh Sairam. \"Controller",
+      "importance_rank": 5,
+      "score": 0.061654885492297494,
+      "refined_text": "1 < 30 % placement problem in software‐deﬁned networking: A survey\", Networks, 2021 Publication Submitted to South Bank University 1 < 31 % Student Pa"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Failure Foresight Capacitated Controller",
+      "importance_rank": 6,
+      "score": 0.058774720160698166,
+      "refined_text": "Placement in Software-Deﬁned Networks\", IEEE Communications Letters, 2016 Publication Daniel S. Fonseca, Elizabeth F. Wanner, 1 < 33 % Carolina G. Mar"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "\"Chapter 24 Active GA Accelerated",
+      "importance_rank": 7,
+      "score": 0.05726442363549273,
+      "refined_text": "bySimulated Annealing toSolve SPP inPacket Networks\", Springer Science and Business Media LLC, 2022 Publication Joshua Jacob, Sumedha Shinde, Narayan "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 47,
+      "section_title": "vishwalata.co.in",
+      "importance_rank": 8,
+      "score": 0.056792134897854625,
+      "refined_text": "1 < 29 % Internet Source Abha Kumari, Ashok Singh Sairam. \"Controller 1 < 30 % placement problem in software‐defined networking: A survey\", Networks, "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Veerabhadreswara Rao. \"Optimal Model for",
+      "importance_rank": 9,
+      "score": 0.056598751752899135,
+      "refined_text": "Failure Foresight Capacitated Controller Placement in Software-Deﬁned Networks\", IEEE Communications Letters, 2016 Publication Daniel S. Fonseca, Eliz"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "using Clustering in Software Deﬁned",
+      "importance_rank": 10,
+      "score": 0.05658928675510485,
+      "refined_text": "Networks\", Journal of Telecommunications and Information Technology, 2023 Publication ocio.wa.gov 1 < 35 % Internet Source"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 41,
+      "section_title": "CONCLUSIONANDFUTUREWORK",
+      "importance_rank": 11,
+      "score": 0.05437913690139121,
+      "refined_text": "InSoftware-definedNetworks(SDNs),theControllerPlacementProblem(CPP)involves tostrategicallypositioningcontrollerswithinthenetworktoefficientlymanagean"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Bala Prakasa Rao Killi, Seela",
+      "importance_rank": 12,
+      "score": 0.0542191272120581,
+      "refined_text": "1 < 32 % Veerabhadreswara Rao. \"Optimal Model for Failure Foresight Capacitated Controller Placement in Software-Deﬁned Networks\", IEEE Communications"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Jimenez-Fernandez, Sancho Salcedo-Sanz.",
+      "importance_rank": 13,
+      "score": 0.05264095893581578,
+      "refined_text": "\"Chapter 24 Active GA Accelerated bySimulated Annealing toSolve SPP inPacket Networks\", Springer Science and Business Media LLC, 2022 Publication Josh"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "\"An Eﬃcient Controller Placement Algorithm",
+      "importance_rank": 14,
+      "score": 0.050036510993492274,
+      "refined_text": "using Clustering in Software Deﬁned Networks\", Journal of Telecommunications and Information Technology, 2023 Publication ocio.wa.gov 1 < 35 % Interne"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "reliability-optimized controller placement for",
+      "importance_rank": 15,
+      "score": 0.04972695882706567,
+      "refined_text": "Software-Deﬁned Networks\", China Communications, 2014 Publication www.researchgate.net 1 4 % Internet Source Submitted to HCUC 1 5 % Student Paper"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "networking: A survey\", Networks, 2021",
+      "importance_rank": 16,
+      "score": 0.04869120420310517,
+      "refined_text": "Publication Submitted to South Bank University 1 < 31 % Student Paper Bala Prakasa Rao Killi, Seela 1 < 32 % Veerabhadreswara Rao. \"Optimal Model for "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 49,
+      "section_title": "Veerabhadreswara Rao. \"Controller",
+      "importance_rank": 17,
+      "score": 0.04859363057621444,
+      "refined_text": "placement in software deﬁned networks: A Comprehensive survey\", Computer Networks, 2019 Publication ouci.dntb.gov.ua 1 < 37 % Internet Source profdoc."
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Carolina G. Marcelino, Gabriel P. Silva, Silvia",
+      "importance_rank": 18,
+      "score": 0.048451023802190775,
+      "refined_text": "Jimenez-Fernandez, Sancho Salcedo-Sanz. \"Chapter 24 Active GA Accelerated bySimulated Annealing toSolve SPP inPacket Networks\", Springer Science and B"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 49,
+      "section_title": "Bala Prakasa Rao Killi, Seela",
+      "importance_rank": 19,
+      "score": 0.047241635871909674,
+      "refined_text": "1 < 36 % Veerabhadreswara Rao. \"Controller placement in software deﬁned networks: A Comprehensive survey\", Computer Networks, 2019 Publication ouci.dn"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "Gong, Xirong Que, Shiduan Cheng. \"On",
+      "importance_rank": 20,
+      "score": 0.0451210626110235,
+      "refined_text": "reliability-optimized controller placement for Software-Deﬁned Networks\", China Communications, 2014 Publication www.researchgate.net 1 4 % Internet S"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Daniel S. Fonseca, Elizabeth F. Wanner,",
+      "importance_rank": 21,
+      "score": 0.044451148474959165,
+      "refined_text": "1 < 33 % Carolina G. Marcelino, Gabriel P. Silva, Silvia Jimenez-Fernandez, Sancho Salcedo-Sanz. \"Chapter 24 Active GA Accelerated bySimulated Anneali"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Joshua Jacob, Sumedha Shinde, Narayan D.G..",
+      "importance_rank": 22,
+      "score": 0.044084067765687386,
+      "refined_text": "1 < 34 % \"An Eﬃcient Controller Placement Algorithm using Clustering in Software Deﬁned Networks\", Journal of Telecommunications and Information Techn"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "ocio.wa.gov",
+      "importance_rank": 23,
+      "score": 0.043230643766483716,
+      "refined_text": "1 < 35 % Internet Source Bala Prakasa Rao Killi, Seela 1 < 36 % Veerabhadreswara Rao. \"Controller placement in software defined networks: A Comprehens"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "IEEE Communications Letters, 2016",
+      "importance_rank": 24,
+      "score": 0.04175831278939205,
+      "refined_text": "Publication Daniel S. Fonseca, Elizabeth F. Wanner, 1 < 33 % Carolina G. Marcelino, Gabriel P. Silva, Silvia Jimenez-Fernandez, Sancho Salcedo-Sanz. \""
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Placement in Software-Deﬁned Networks\",",
+      "importance_rank": 25,
+      "score": 0.04038691006568541,
+      "refined_text": "IEEE Communications Letters, 2016 Publication Daniel S. Fonseca, Elizabeth F. Wanner, 1 < 33 % Carolina G. Marcelino, Gabriel P. Silva, Silvia Jimenez"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 18,
+      "section_title": "networking",
+      "importance_rank": 26,
+      "score": 0.040155169827855684,
+      "refined_text": "JianxinLiaoetal.,[3]proposedthecontrollerplacementprobleminlarge-scalesoftware- definednetworks.Thismethodutilizesdensity-basedclusteringtechniquestoi"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Media LLC, 2022",
+      "importance_rank": 27,
+      "score": 0.03641826254512135,
+      "refined_text": "Publication Joshua Jacob, Sumedha Shinde, Narayan D.G.. 1 < 34 % \"An Eﬃcient Controller Placement Algorithm using Clustering in Software Deﬁned Networ"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "Yannan Hu, Wendong Wang, Xiangyang",
+      "importance_rank": 28,
+      "score": 0.03605926573055874,
+      "refined_text": "1 3 % Gong, Xirong Que, Shiduan Cheng. \"On reliability-optimized controller placement for Software-Deﬁned Networks\", China Communications, 2014 Public"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 45,
+      "section_title": "Deployment of Controllers in Software-",
+      "importance_rank": 29,
+      "score": 0.03545778379938957,
+      "refined_text": "Deﬁned Networks\", Procedia Computer Science, 2024 Publication ds.inﬂibnet.ac.in 1 7 % Internet Source Sajad Khorsandroo, Adrián Gallego Sánchez, 1 < 8"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 45,
+      "section_title": "Phaneendra, V Geetha. \"An Eﬀective",
+      "importance_rank": 30,
+      "score": 0.03504979542087632,
+      "refined_text": "Deployment of Controllers in Software- Deﬁned Networks\", Procedia Computer Science, 2024 Publication ds.inﬂibnet.ac.in 1 7 % Internet Source Sajad Kho"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 17,
+      "section_title": "NetworkingEnvironment",
+      "importance_rank": 31,
+      "score": 0.034963851374344386,
+      "refined_text": "Sapkota,A.,B.BabuR.Dawadi,andC.ShashidharR.Joshi.[1]haveproposeda methodforoptimizingmulti-controllerplacementinSoftware-DefinedNetworking(SDN) enviro"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 48,
+      "section_title": "Networks\", Springer Science and Business",
+      "importance_rank": 32,
+      "score": 0.03395432666258569,
+      "refined_text": "Media LLC, 2022 Publication Joshua Jacob, Sumedha Shinde, Narayan D.G.. 1 < 34 % \"An Eﬃcient Controller Placement Algorithm using Clustering in Softwa"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 45,
+      "section_title": "Sk Yasmine, U Prabu, Y Sri Deepak",
+      "importance_rank": 33,
+      "score": 0.033508301324477116,
+      "refined_text": "1 6 % Phaneendra, V Geetha. \"An Eﬀective Deployment of Controllers in Software- Deﬁned Networks\", Procedia Computer Science, 2024 Publication ds.inﬂib"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 49,
+      "section_title": "placement in software deﬁned networks: A",
+      "importance_rank": 34,
+      "score": 0.033306277863615605,
+      "refined_text": "Comprehensive survey\", Computer Networks, 2019 Publication ouci.dntb.gov.ua 1 < 37 % Internet Source profdoc.um.ac.ir 1 < 38 % Internet Source Ijaz Ah"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 5,
+      "section_title": "ABSTRACT",
+      "importance_rank": 35,
+      "score": 0.032749658363673606,
+      "refined_text": "Intoday’scontext,thereisasignificantriseintheuseoftheInternet,andnewtechnolo- gieskeepchanging.Traditionalnetworksarehavingahardtimekeepingupwithallth"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 47,
+      "section_title": "problem in large-scale software deﬁned",
+      "importance_rank": 36,
+      "score": 0.03254535662982655,
+      "refined_text": "networkings\", Computer Networks, 2017. Publication Mohammad Mahdi Kazemian, Meghdad 1 < 23 % Mirabi. \"Controller placement in software deﬁned networks"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Su, Zhiyang. \"Eﬃciency Optimization for",
+      "importance_rank": 37,
+      "score": 0.03242612752654054,
+      "refined_text": "1 < 47 % Software Deﬁned Networks.\", Hong Kong University of Science and Technology (Hong Kong), 2017 Publication Ashutosh Kumar Singh, Shashank Sriva"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 46,
+      "section_title": "based approach for controller placement",
+      "importance_rank": 38,
+      "score": 0.0314577856588697,
+      "refined_text": "problem in large-scale software defined networkings\", Computer Networks, 2017. Publication Mohammad Mahdi Kazemian, Meghdad 1 < 23 % Mirabi. \"Controll"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "Communications, 2014",
+      "importance_rank": 39,
+      "score": 0.02972173141391448,
+      "refined_text": "Publication www.researchgate.net 1 4 % Internet Source Submitted to HCUC 1 5 % Student Paper Sk Yasmine, U Prabu, Y Sri Deepak 1 6 % Phaneendra, V Gee"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Reliability and Safety (ICSRS), 2023",
+      "importance_rank": 40,
+      "score": 0.029710048061904974,
+      "refined_text": "Publication Su, Zhiyang. \"Eﬃciency Optimization for 1 < 47 % Software Deﬁned Networks.\", Hong Kong University of Science and Technology (Hong Kong), 2"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 51,
+      "section_title": "Joshi. \"Controller placement problem during",
+      "importance_rank": 41,
+      "score": 0.028617462173443305,
+      "refined_text": "SDN deployment in the ISP/Telco networks: A survey\", Engineering Reports, 2023 Publication Tamal Das, Vignesh Sridharan, Mohan 1 < 51 % Gurusamy. \"A S"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "Communications, 2022",
+      "importance_rank": 42,
+      "score": 0.02830994499403774,
+      "refined_text": "Publication www.hindawi.com 2 2 % Internet Source Yannan Hu, Wendong Wang, Xiangyang 1 3 % Gong, Xirong Que, Shiduan Cheng. \"On reliability-optimized "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "International Conference on System",
+      "importance_rank": 43,
+      "score": 0.02800626947743873,
+      "refined_text": "Reliability and Safety (ICSRS), 2023 Publication Su, Zhiyang. \"Eﬃciency Optimization for 1 < 47 % Software Deﬁned Networks.\", Hong Kong University of "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "Deﬁned Network\", Computer",
+      "importance_rank": 44,
+      "score": 0.027436943432447243,
+      "refined_text": "Communications, 2022 Publication www.hindawi.com 2 2 % Internet Source Yannan Hu, Wendong Wang, Xiangyang 1 3 % Gong, Xirong Que, Shiduan Cheng. \"On r"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 51,
+      "section_title": "Binod Sapkota, Babu R Dawadi, Shashidhar R",
+      "importance_rank": 45,
+      "score": 0.02689715761668827,
+      "refined_text": "1 < 50 % Joshi. \"Controller placement problem during SDN deployment in the ISP/Telco networks: A survey\", Engineering Reports, 2023 Publication Tamal "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "latency for controller placement in Software",
+      "importance_rank": 46,
+      "score": 0.026625946413712413,
+      "refined_text": "Deﬁned Network\", Computer Communications, 2022 Publication www.hindawi.com 2 2 % Internet Source Yannan Hu, Wendong Wang, Xiangyang 1 3 % Gong, Xirong"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Controller Reachability\", 2023 7th",
+      "importance_rank": 47,
+      "score": 0.026457754984022617,
+      "refined_text": "International Conference on System Reliability and Safety (ICSRS), 2023 Publication Su, Zhiyang. \"Eﬃciency Optimization for 1 < 47 % Software Deﬁned N"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 45,
+      "section_title": "SDN evolution: A comprehensive survey of",
+      "importance_rank": 48,
+      "score": 0.02599552394642314,
+      "refined_text": "the state-of-the-art\", Computer Networks, 2021 Publication Changwei Xiao, Jue Chen, Xihe Qiu, Dun He, 1 < 9 % Hanmin Yin. \"GOKA: A Network Partition a"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "based approach to minimum propagation",
+      "importance_rank": 49,
+      "score": 0.02568306343395705,
+      "refined_text": "latency for controller placement in Software Deﬁned Network\", Computer Communications, 2022 Publication www.hindawi.com 2 2 % Internet Source Yannan H"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 45,
+      "section_title": "Rodríguez, Roberto Doriguzzi-Corin. \"Hybrid",
+      "importance_rank": 50,
+      "score": 0.024926824720162943,
+      "refined_text": "SDN evolution: A comprehensive survey of the state-of-the-art\", Computer Networks, 2021 Publication Changwei Xiao, Jue Chen, Xihe Qiu, Dun He, 1 < 9 %"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "\"Controller Placement with Respect to",
+      "importance_rank": 51,
+      "score": 0.024868858635439944,
+      "refined_text": "Controller Reachability\", 2023 7th International Conference on System Reliability and Safety (ICSRS), 2023 Publication Su, Zhiyang. \"Eﬃciency Optimiza"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "Hanmin Yin, Changwei Xiao. \"A cross entropy",
+      "importance_rank": 52,
+      "score": 0.024488834013473862,
+      "refined_text": "based approach to minimum propagation latency for controller placement in Software Deﬁned Network\", Computer Communications, 2022 Publication www.hind"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 49,
+      "section_title": "Andrei Gurtov. \"Security in Software Deﬁned",
+      "importance_rank": 53,
+      "score": 0.024351457060162965,
+      "refined_text": "Networks: A Survey\", IEEE Communications Surveys & Tutorials, 2015 Publication repositori.upf.edu 1 < 40 % Internet Source www.jsjkx.com 1 < 41 % Inte"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 51,
+      "section_title": "Management, 2018",
+      "importance_rank": 54,
+      "score": 0.024280035039876514,
+      "refined_text": "Publication Binod Sapkota, Babu R Dawadi, Shashidhar R 1 < 50 % Joshi. \"Controller placement problem during SDN deployment in the ISP/Telco networks: "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 51,
+      "section_title": "Transactions on Network and Service",
+      "importance_rank": 55,
+      "score": 0.023937223136409242,
+      "refined_text": "Management, 2018 Publication Binod Sapkota, Babu R Dawadi, Shashidhar R 1 < 50 % Joshi. \"Controller placement problem during SDN deployment in the ISP"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Ran Xu, Fenghua Wang, Robert E. Kooij.",
+      "importance_rank": 56,
+      "score": 0.02370236285939194,
+      "refined_text": "1 < 46 % \"Controller Placement with Respect to Controller Reachability\", 2023 7th International Conference on System Reliability and Safety (ICSRS), 2"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 51,
+      "section_title": "Software Deﬁned Network\", IEEE",
+      "importance_rank": 57,
+      "score": 0.023010844551419517,
+      "refined_text": "Transactions on Network and Service Management, 2018 Publication Binod Sapkota, Babu R Dawadi, Shashidhar R 1 < 50 % Joshi. \"Controller placement prob"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 45,
+      "section_title": "Ali Saman Tosun, José Manuel Arco",
+      "importance_rank": 58,
+      "score": 0.023000426294660613,
+      "refined_text": "Rodríguez, Roberto Doriguzzi-Corin. \"Hybrid SDN evolution: A comprehensive survey of the state-of-the-art\", Computer Networks, 2021 Publication Changw"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "Jue Chen, Yu-Jie Xiong, Xihe Qiu, Dun He,",
+      "importance_rank": 59,
+      "score": 0.022694408896192363,
+      "refined_text": "3 1 % Hanmin Yin, Changwei Xiao. \"A cross entropy based approach to minimum propagation latency for controller placement in Software Deﬁned Network\", "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 49,
+      "section_title": "Ijaz Ahmad, Suneth Namal, Mika Ylianttila,",
+      "importance_rank": 60,
+      "score": 0.02246876783207632,
+      "refined_text": "1 < 39 % Andrei Gurtov. \"Security in Software Deﬁned Networks: A Survey\", IEEE Communications Surveys & Tutorials, 2015 Publication repositori.upf.edu"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 51,
+      "section_title": "Hypervisors and Controllers in Virtualized",
+      "importance_rank": 61,
+      "score": 0.02226864241065436,
+      "refined_text": "Software Deﬁned Network\", IEEE Transactions on Network and Service Management, 2018 Publication Binod Sapkota, Babu R Dawadi, Shashidhar R 1 < 50 % Jo"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 1,
+      "section_title": "ControllerPlacementinSoftware-DefinedNetworks",
+      "importance_rank": 62,
+      "score": 0.0221548431834779,
+      "refined_text": "Mini-IProjectReportsubmittedinpartialfulfillmentoftheRequirements fortheAwardoftheDegreeof BACHELOROFTECHNOLOGY in COMPUTERSCIENCEANDENGINEERING By KO"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Access, 2018",
+      "importance_rank": 63,
+      "score": 0.02182999756434237,
+      "refined_text": "Publication Ran Xu, Fenghua Wang, Robert E. Kooij. 1 < 46 % \"Controller Placement with Respect to Controller Reachability\", 2023 7th International Con"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Based on Louvain Heuristic Algorithm\", IEEE",
+      "importance_rank": 64,
+      "score": 0.021331764076831218,
+      "refined_text": "Access, 2018 Publication Ran Xu, Fenghua Wang, Robert E. Kooij. 1 < 46 % \"Controller Placement with Respect to Controller Reachability\", 2023 7th Inte"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 51,
+      "section_title": "Veerabhadreswara Rao. \"On Placement of",
+      "importance_rank": 65,
+      "score": 0.021250823737451997,
+      "refined_text": "Hypervisors and Controllers in Virtualized Software Deﬁned Network\", IEEE Transactions on Network and Service Management, 2018 Publication Binod Sapko"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 45,
+      "section_title": "Sajad Khorsandroo, Adrián Gallego Sánchez,",
+      "importance_rank": 66,
+      "score": 0.021087590622048506,
+      "refined_text": "1 < 8 % Ali Saman Tosun, José Manuel Arco Rodríguez, Roberto Doriguzzi-Corin. \"Hybrid SDN evolution: A comprehensive survey of the state-of-the-art\", "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 19,
+      "section_title": "inSoftwareDefinedWideAreaNetworks",
+      "importance_rank": 67,
+      "score": 0.021041283195237504,
+      "refined_text": "Wang,Guodong,etal.,[4]hasproposedaneffectiveapproachtocontrollerplacement inSoftwareDefinedWideAreaNetworks(SD-WANs).Theirapproachfocusesonopti- mizin"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Liu. \"Multi-Controller Placement towards SDN",
+      "importance_rank": 68,
+      "score": 0.0205244656670889,
+      "refined_text": "Based on Louvain Heuristic Algorithm\", IEEE Access, 2018 Publication Ran Xu, Fenghua Wang, Robert E. Kooij. 1 < 46 % \"Controller Placement with Respec"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 51,
+      "section_title": "Bala Prakasa Rao Killi, Seela",
+      "importance_rank": 69,
+      "score": 0.020198775909145355,
+      "refined_text": "1 < 49 % Veerabhadreswara Rao. \"On Placement of Hypervisors and Controllers in Virtualized Software Deﬁned Network\", IEEE Transactions on Network and "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 42,
+      "section_title": "REFERENCES",
+      "importance_rank": 70,
+      "score": 0.019783009107280203,
+      "refined_text": "[1]Sapkota,A.,Dawadi,B.B.R.,Joshi,C.S.R.(2022).Multi-controllerplacement optimizationusingnakedmole-ratalgorithmoversoftware-definednetworkingen- viro"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 49,
+      "section_title": "profdoc.um.ac.ir",
+      "importance_rank": 71,
+      "score": 0.01973676012518614,
+      "refined_text": "1 < 38 % Internet Source Ijaz Ahmad, Suneth Namal, Mika Ylianttila, 1 < 39 % Andrei Gurtov. \"Security in Software Deﬁned Networks: A Survey\", IEEE Com"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Wen Chen, Cong Chen, Xueqin Jiang, Leijie",
+      "importance_rank": 72,
+      "score": 0.01942912409718972,
+      "refined_text": "1 < 45 % Liu. \"Multi-Controller Placement towards SDN Based on Louvain Heuristic Algorithm\", IEEE Access, 2018 Publication Ran Xu, Fenghua Wang, Rober"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 45,
+      "section_title": "ds.inﬂibnet.ac.in",
+      "importance_rank": 73,
+      "score": 0.019343786648012572,
+      "refined_text": "1 7 % Internet Source Sajad Khorsandroo, Adrián Gallego Sánchez, 1 < 8 % Ali Saman Tosun, José Manuel Arco Rodríguez, Roberto Doriguzzi-Corin. \"Hybrid"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 9,
+      "section_title": "ListofFigures",
+      "importance_rank": 74,
+      "score": 0.019331297073578328,
+      "refined_text": "1.1SDNArchitecture[13].............................2 1.2ClassificationofControllerPlacementProblem[14].............4 4.1AgileModel[17]................"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 32,
+      "section_title": "ControllerPlacementinSoftwareDefined",
+      "importance_rank": 75,
+      "score": 0.01902508449266323,
+      "refined_text": "Networks Simulatedannealingisametaheuristicoptimizationtechniqueinspiredbytheprocessof annealinginSDN.Itinvolvesiterativelyexploringandrefiningsolutio"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 32,
+      "section_title": "5.2ASimulatedAnnealingbasedApproachfor",
+      "importance_rank": 76,
+      "score": 0.01864873730048242,
+      "refined_text": "ControllerPlacementinSoftwareDefined Networks Simulatedannealingisametaheuristicoptimizationtechniqueinspiredbytheprocessof annealinginSDN.Itinvolvesi"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 45,
+      "section_title": "Science, 2024",
+      "importance_rank": 77,
+      "score": 0.01858065402268837,
+      "refined_text": "Publication ds.inﬂibnet.ac.in 1 7 % Internet Source Sajad Khorsandroo, Adrián Gallego Sánchez, 1 < 8 % Ali Saman Tosun, José Manuel Arco Rodríguez, Ro"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 22,
+      "section_title": "controllerdeploymentforSDN",
+      "importance_rank": 78,
+      "score": 0.0183290940852521,
+      "refined_text": "Chai,Rong,etal.,[8]proposedanetworkcostoptimization-basedapproachforcapac- itatedcontrollerdeploymentinSoftware-DefinedNetworks(SDNs).Theirapproachfo-"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 45,
+      "section_title": "Deﬁned Networks\", Procedia Computer",
+      "importance_rank": 79,
+      "score": 0.018301293346169027,
+      "refined_text": "Science, 2024 Publication ds.inﬂibnet.ac.in 1 7 % Internet Source Sajad Khorsandroo, Adrián Gallego Sánchez, 1 < 8 % Ali Saman Tosun, José Manuel Arco"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 47,
+      "section_title": "Mirabi. \"Controller placement in software",
+      "importance_rank": 80,
+      "score": 0.01809434050742663,
+      "refined_text": "deﬁned networks using multi-objective antlion algorithm\", The Journal of Supercomputing, 2021 Publication www.semanticscholar.org 1 < 24 % Internet So"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 49,
+      "section_title": "ouci.dntb.gov.ua",
+      "importance_rank": 81,
+      "score": 0.01788289693152305,
+      "refined_text": "1 < 37 % Internet Source profdoc.um.ac.ir 1 < 38 % Internet Source Ijaz Ahmad, Suneth Namal, Mika Ylianttila, 1 < 39 % Andrei Gurtov. \"Security in Sof"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 47,
+      "section_title": "Mohammad Mahdi Kazemian, Meghdad",
+      "importance_rank": 82,
+      "score": 0.017641927252459427,
+      "refined_text": "1 < 23 % Mirabi. \"Controller placement in software deﬁned networks using multi-objective antlion algorithm\", The Journal of Supercomputing, 2021 Publi"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 44,
+      "section_title": "Mini-I Report (1).pdf",
+      "importance_rank": 83,
+      "score": 0.01758648778300524,
+      "refined_text": "ORIGINALITY REPORT 17 10143 %%%% SIMILARITY INDEXINTERNET SOURCESPUBLICATIONSSTUDENT PAPERS PRIMARY SOURCES Jue Chen, Yu-Jie Xiong, Xihe Qiu, Dun He, "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Computer and Energy Technologies (ICECET),",
+      "importance_rank": 84,
+      "score": 0.017476057452420275,
+      "refined_text": "2023 Publication Wen Chen, Cong Chen, Xueqin Jiang, Leijie 1 < 45 % Liu. \"Multi-Controller Placement towards SDN Based on Louvain Heuristic Algorithm\""
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Journal of Network Management, 2018",
+      "importance_rank": 85,
+      "score": 0.017475051247934664,
+      "refined_text": "Publication Bala Prakasa Rao Killi, Seela 1 < 49 % Veerabhadreswara Rao. \"On Placement of Hypervisors and Controllers in Virtualized Software Defined "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 49,
+      "section_title": "Comprehensive survey\", Computer Networks,",
+      "importance_rank": 86,
+      "score": 0.017064060947805278,
+      "refined_text": "2019 Publication ouci.dntb.gov.ua 1 < 37 % Internet Source profdoc.um.ac.ir 1 < 38 % Internet Source Ijaz Ahmad, Suneth Namal, Mika Ylianttila, 1 < 39"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "International Conference on Electrical,",
+      "importance_rank": 87,
+      "score": 0.016864461885430986,
+      "refined_text": "Computer and Energy Technologies (ICECET), 2023 Publication Wen Chen, Cong Chen, Xueqin Jiang, Leijie 1 < 45 % Liu. \"Multi-Controller Placement toward"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 47,
+      "section_title": "networkings\", Computer Networks, 2017.",
+      "importance_rank": 88,
+      "score": 0.016667562869341034,
+      "refined_text": "Publication Mohammad Mahdi Kazemian, Meghdad 1 < 23 % Mirabi. \"Controller placement in software deﬁned networks using multi-objective antlion algorith"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "SDWSN Controller Placement Scheme\", 2023",
+      "importance_rank": 89,
+      "score": 0.01598740679607775,
+      "refined_text": "International Conference on Electrical, Computer and Energy Technologies (ICECET), 2023 Publication Wen Chen, Cong Chen, Xueqin Jiang, Leijie 1 < 45 %"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "Adnan Abu-Mahfouz. \"A Novel Energy-Aware",
+      "importance_rank": 90,
+      "score": 0.015146736518518548,
+      "refined_text": "SDWSN Controller Placement Scheme\", 2023 International Conference on Electrical, Computer and Energy Technologies (ICECET), 2023 Publication Wen Chen,"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 21,
+      "section_title": "controllerplacementinSoftware-DefinedNetworks",
+      "importance_rank": 91,
+      "score": 0.014200438238680984,
+      "refined_text": "G.Schutzetal.,[17]addressedtheissueofControllerPlacementProblembyproposing acomprehensivemathematicalformulizationwhichfocusesonpropagationlatencyand "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 50,
+      "section_title": "RRS Molose, Bassey Isong, Nosipho Dladlu,",
+      "importance_rank": 92,
+      "score": 0.013965517590627835,
+      "refined_text": "1 < 44 % Adnan Abu-Mahfouz. \"A Novel Energy-Aware SDWSN Controller Placement Scheme\", 2023 International Conference on Electrical, Computer and Energy"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 49,
+      "section_title": "Communications, 2018",
+      "importance_rank": 93,
+      "score": 0.013021076140813504,
+      "refined_text": "Publication RRS Molose, Bassey Isong, Nosipho Dladlu, 1 < 44 % Adnan Abu-Mahfouz. \"A Novel Energy-Aware SDWSN Controller Placement Scheme\", 2023 Inter"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 39,
+      "section_title": "6.3ResultsandComparison",
+      "importance_rank": 94,
+      "score": 0.012458370677925209,
+      "refined_text": "ThesectioncomparestheControllertoControlleraveragelatencyexperiencedbysixdif- ferenttopologies,withtheproposedSimulatedAnnealingbeingcomparedtotheexis"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 23,
+      "section_title": "SoftwareDefinedNetwork",
+      "importance_rank": 95,
+      "score": 0.010929831361042542,
+      "refined_text": "Chen,Jue,etal.,[10]proposedacross-entropy-basedapproachtominimumpropagation latencyforcontrollerplacementinSoftwareDefinedNetworks(SDNs).Theirapproach"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 20,
+      "section_title": "AComprehensivesurvey",
+      "importance_rank": 96,
+      "score": 0.00791176803392948,
+      "refined_text": "Killi,BalaPrakasaRao,andSeelaVeerabhadreswaraRao[6]conductedacomprehensive surveyoncontrollerplacementinSoftwareDefinedNetworks(SDNs).Theirsurveypro- "
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 6,
+      "section_title": "TableofContents",
+      "importance_rank": 97,
+      "score": 0.007356978233849619,
+      "refined_text": "1INTRODUCTION1 1.1SoftwareDefinedNetworks...........................1 1.1.1Introduction...............................1 1.1.2KeyComponentsofSDN......."
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 13,
+      "section_title": "1.3Latency",
+      "importance_rank": 98,
+      "score": 0.006932618063192231,
+      "refined_text": "Latency,withintheControllerPlacementProblem(CPP)framework,denotesthetem- poralgapbetweeninitiatingarequestoractionandreceivingthecorrespondingresponse"
+    },
+    {
+      "document": "MINI1 REPORT.pdf",
+      "page_number": 12,
+      "section_title": "1.2ControllerPlacementProblem",
+      "importance_rank": 99,
+      "score": 0.006579625402793473,
+      "refined_text": "TheControllerPlacementProblem(CPP)isacriticalaspectofSDN,focusingonfinding thebestlocationstodeploycontrollerswithinanetworkinfrastructure.Itsgoalisto"
+    }
+  ]
+}

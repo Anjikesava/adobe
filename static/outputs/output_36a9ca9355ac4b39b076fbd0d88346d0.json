@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "input_documents": [
+      "s10462-023-10669-z.pdf",
+      "s41598-024-83090-3.pdf",
+      "jaanu (1).pdf"
+    ],
+    "persona_role": "PhD Researcher in Computational Biology",
+    "persona_focus_keywords": [
+      "Prepare a comprehensive literature review focusing on  methodologies",
+      "datasets",
+      "and performance benchmarks"
+    ],
+    "job_to_be_done": "project",
+    "processing_timestamp": "2025-07-27T06:14:56.617559+00:00"
+  },
+  "ranked_sections": [
+    {
+      "document": "jaanu (1).pdf",
+      "page_number": 1,
+      "section_title": "Forecasting",
+      "importance_rank": 1,
+      "score": 0.040265117174151016,
+      "text_excerpt": "123 SurpaneniRaviKishanMannamJasmithaMuthireddyLakshmanSai SiddharthaAcademyofHigherEducationDept.ofComputerScienceandEngineeringDept.ofComputerScienc"
+    },
+    {
+      "document": "s41598-024-83090-3.pdf",
+      "page_number": 1,
+      "section_title": "neural networks",
+      "importance_rank": 2,
+      "score": 0.028787687669647025,
+      "text_excerpt": " Conghao Wang, Gaurav Asok Kumar & Jagath C. Rajapakse Apprehension of drug action mechanism is paramount for drug response prediction and precision "
+    },
+    {
+      "document": "jaanu (1).pdf",
+      "page_number": 1,
+      "section_title": "AccurateBrainTumorDiagnosisandGrowth",
+      "importance_rank": 3,
+      "score": 0.0180240265227938,
+      "text_excerpt": "Forecasting 123 SurpaneniRaviKishanMannamJasmithaMuthireddyLakshmanSai SiddharthaAcademyofHigherEducationDept.ofComputerScienceandEngineeringDept.ofCo"
+    },
+    {
+      "document": "jaanu (1).pdf",
+      "page_number": 1,
+      "section_title": "FusionofImagingandGeneticFeaturesfor",
+      "importance_rank": 4,
+      "score": 0.01791603931432814,
+      "text_excerpt": "AccurateBrainTumorDiagnosisandGrowth Forecasting 123 SurpaneniRaviKishanMannamJasmithaMuthireddyLakshmanSai SiddharthaAcademyofHigherEducationDept.ofC"
+    },
+    {
+      "document": "s41598-024-83090-3.pdf",
+      "page_number": 1,
+      "section_title": "prediction with explainable graph",
+      "importance_rank": 5,
+      "score": 0.005902954955308259,
+      "text_excerpt": "neural networks  Conghao Wang, Gaurav Asok Kumar & Jagath C. Rajapakse Apprehension of drug action mechanism is paramount for drug response predictio"
+    },
+    {
+      "document": "s41598-024-83090-3.pdf",
+      "page_number": 1,
+      "section_title": "OPEN",
+      "importance_rank": 6,
+      "score": 0.005861598878436535,
+      "text_excerpt": "prediction with explainable graph neural networks  Conghao Wang, Gaurav Asok Kumar & Jagath C. Rajapakse Apprehension of drug action mechanism is par"
+    },
+    {
+      "document": "s41598-024-83090-3.pdf",
+      "page_number": 1,
+      "section_title": "Drug discovery and mechanism",
+      "importance_rank": 7,
+      "score": 0.005857217812442416,
+      "text_excerpt": "OPEN prediction with explainable graph neural networks  Conghao Wang, Gaurav Asok Kumar & Jagath C. Rajapakse Apprehension of drug action mechanism i"
+    }
+  ]
+}

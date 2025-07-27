@@ -1,0 +1,2137 @@
+[
+  {
+    "title": "ASimulatedAnnealingbasedApproachfor",
+    "page": 1,
+    "subheadings": []
+  },
+  {
+    "title": "ControllerPlacementinSoftware-DefinedNetworks",
+    "page": 1,
+    "subheadings": []
+  },
+  {
+    "title": "ABSTRACT",
+    "page": 5,
+    "subheadings": []
+  },
+  {
+    "title": "TableofContents",
+    "page": 6,
+    "subheadings": []
+  },
+  {
+    "title": "ListofTables",
+    "page": 8,
+    "subheadings": []
+  },
+  {
+    "title": "ListofFigures",
+    "page": 9,
+    "subheadings": []
+  },
+  {
+    "title": "Chapter1",
+    "page": 10,
+    "subheadings": []
+  },
+  {
+    "title": "INTRODUCTION",
+    "page": 10,
+    "subheadings": [
+      {
+        "title": "1.1SoftwareDefinedNetworks",
+        "page": 10,
+        "subheadings": []
+      },
+      {
+        "title": "1.2ControllerPlacementProblem",
+        "page": 12,
+        "subheadings": []
+      },
+      {
+        "title": "1.3Latency",
+        "page": 13,
+        "subheadings": []
+      },
+      {
+        "title": "1.4Clustering",
+        "page": 15,
+        "subheadings": []
+      },
+      {
+        "title": "1.5Motivation",
+        "page": 15,
+        "subheadings": []
+      },
+      {
+        "title": "1.6ProblemStatement",
+        "page": 16,
+        "subheadings": []
+      },
+      {
+        "title": "1.7Objectives",
+        "page": 16,
+        "subheadings": []
+      },
+      {
+        "title": "1.8Scope",
+        "page": 16,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "Chapter2",
+    "page": 17,
+    "subheadings": []
+  },
+  {
+    "title": "LITERATURESURVEY",
+    "page": 17,
+    "subheadings": [
+      {
+        "title": "2.1Multi-ControllerPlacementOptimizationUsing",
+        "page": 17,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "NakedMole-RatAlgorithmoverSoftware-Defined",
+    "page": 17,
+    "subheadings": []
+  },
+  {
+    "title": "NetworkingEnvironment",
+    "page": 17,
+    "subheadings": [
+      {
+        "title": "2.2OnReliability-optimizedControllerPlacementfor",
+        "page": 18,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "Software-DefinedNetworks",
+    "page": 18,
+    "subheadings": [
+      {
+        "title": "2.3Densitycluster-basedapproachforcontroller",
+        "page": 18,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "placementprobleminlarge-scalesoftwaredefined",
+    "page": 18,
+    "subheadings": []
+  },
+  {
+    "title": "networking",
+    "page": 18,
+    "subheadings": [
+      {
+        "title": "2.4AnEffectiveApproachtoControllerPlacement",
+        "page": 19,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "inSoftwareDefinedWideAreaNetworks",
+    "page": 19,
+    "subheadings": [
+      {
+        "title": "2.5Multi-objectiveoptimizationcontrollerplacement",
+        "page": 20,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "problemininternet-orientedsoftwaredefined",
+    "page": 20,
+    "subheadings": []
+  },
+  {
+    "title": "network",
+    "page": 20,
+    "subheadings": [
+      {
+        "title": "2.6Controllerplacementinsoftwaredefinednetworks:",
+        "page": 20,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "AComprehensivesurvey",
+    "page": 20,
+    "subheadings": [
+      {
+        "title": "2.7Acomprehensiveapproachforoptimizing",
+        "page": 21,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "controllerplacementinSoftware-DefinedNetworks",
+    "page": 21,
+    "subheadings": [
+      {
+        "title": "2.8Networkcostoptimization-basedcapacitated",
+        "page": 22,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "controllerdeploymentforSDN",
+    "page": 22,
+    "subheadings": [
+      {
+        "title": "2.9Cost-EffectiveSurvivableControllerPlacement",
+        "page": 23,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "inSoftware-DefinedNetworks",
+    "page": 23,
+    "subheadings": [
+      {
+        "title": "2.10Acrossentropy-basedapproachtominimum",
+        "page": 23,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "propagationlatencyforcontrollerplacementin",
+    "page": 23,
+    "subheadings": []
+  },
+  {
+    "title": "SoftwareDefinedNetwork",
+    "page": 23,
+    "subheadings": []
+  },
+  {
+    "title": "Chapter3",
+    "page": 25,
+    "subheadings": []
+  },
+  {
+    "title": "SOFTWAREREQUIREMENTSANALYSIS",
+    "page": 25,
+    "subheadings": [
+      {
+        "title": "3.1FunctionalRequirements",
+        "page": 25,
+        "subheadings": []
+      },
+      {
+        "title": "3.2Non-FunctionalRequirements",
+        "page": 26,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "Chapter4",
+    "page": 27,
+    "subheadings": []
+  },
+  {
+    "title": "SOFTWAREDESIGN",
+    "page": 27,
+    "subheadings": [
+      {
+        "title": "4.1SoftwareDevelopmentLifecycle",
+        "page": 27,
+        "subheadings": []
+      },
+      {
+        "title": "4.2ActivityDiagram",
+        "page": 29,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "Chapter5",
+    "page": 31,
+    "subheadings": []
+  },
+  {
+    "title": "PROPOSEDSYSTEM",
+    "page": 31,
+    "subheadings": [
+      {
+        "title": "5.1ProblemFormulation",
+        "page": 31,
+        "subheadings": []
+      },
+      {
+        "title": "5.2ASimulatedAnnealingbasedApproachfor",
+        "page": 32,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "ControllerPlacementinSoftwareDefined",
+    "page": 32,
+    "subheadings": []
+  },
+  {
+    "title": "Networks",
+    "page": 32,
+    "subheadings": []
+  },
+  {
+    "title": "Chapter6",
+    "page": 38,
+    "subheadings": []
+  },
+  {
+    "title": "IMPLEMENTATIONANDRESULTS",
+    "page": 38,
+    "subheadings": [
+      {
+        "title": "6.1Implementation",
+        "page": 38,
+        "subheadings": []
+      },
+      {
+        "title": "6.2PerformanceMetrics",
+        "page": 39,
+        "subheadings": []
+      },
+      {
+        "title": "6.3ResultsandComparison",
+        "page": 39,
+        "subheadings": []
+      }
+    ]
+  },
+  {
+    "title": "Chapter7",
+    "page": 41,
+    "subheadings": []
+  },
+  {
+    "title": "CONCLUSIONANDFUTUREWORK",
+    "page": 41,
+    "subheadings": []
+  },
+  {
+    "title": "REFERENCES",
+    "page": 42,
+    "subheadings": []
+  },
+  {
+    "title": "Mini-I Report (1).pdf",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "17",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "10143",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "%%%%",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "Jue Chen, Yu-Jie Xiong, Xihe Qiu, Dun He,",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "3",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "Hanmin Yin, Changwei Xiao. \"A cross entropy",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "based approach to minimum propagation",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "latency for controller placement in Software",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "Deﬁned Network\", Computer",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "Communications, 2022",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "www.hindawi.com",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "2",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "2",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "Yannan Hu, Wendong Wang, Xiangyang",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "3",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "Gong, Xirong Que, Shiduan Cheng. \"On",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "reliability-optimized controller placement for",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "Software-Deﬁned Networks\", China",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "Communications, 2014",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "www.researchgate.net",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "4",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "Submitted to HCUC",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "5",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 44,
+    "subheadings": []
+  },
+  {
+    "title": "Sk Yasmine, U Prabu, Y Sri Deepak",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "6",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Phaneendra, V Geetha. \"An Eﬀective",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Deployment of Controllers in Software-",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Deﬁned Networks\", Procedia Computer",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Science, 2024",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "ds.inﬂibnet.ac.in",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "7",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Sajad Khorsandroo, Adrián Gallego Sánchez,",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "8",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Ali Saman Tosun, José Manuel Arco",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Rodríguez, Roberto Doriguzzi-Corin. \"Hybrid",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "SDN evolution: A comprehensive survey of",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "the state-of-the-art\", Computer Networks,",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "2021",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Changwei Xiao, Jue Chen, Xihe Qiu, Dun He,",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "9",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Hanmin Yin. \"GOKA: A Network Partition and",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Cluster Fusion Algorithm for Controller",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Placement Problem in SDN\", Journal of",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Circuits, Systems and Computers, 2022",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "link.springer.com",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "10",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "export.arxiv.org",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "11",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "Babeș-Bolyai University",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "12",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 45,
+    "subheadings": []
+  },
+  {
+    "title": "journal.uad.ac.id",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "13",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "Tamal Das, Vignesh Sridharan, Mohan",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "14",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "Gurusamy. \"A Survey on Controller Placement",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "in SDN\", IEEE Communications Surveys &",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "Tutorials, 2019",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "ijirset.com",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "15",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "www.mgv-portal.eu",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "16",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "Submitted to Coventry University",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "17",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "researchr.org",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "18",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "stackify.com",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "19",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "Submitted to University of Newcastle upon",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "20",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "Tyne",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "web.archive.org",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "21",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "Liao, Jianxin, Haifeng Sun, Jingyu Wang, Qi Qi,",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "22",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "Kai Li, and Tonghong Li. \"Density cluster",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "based approach for controller placement",
+    "page": 46,
+    "subheadings": []
+  },
+  {
+    "title": "problem in large-scale software deﬁned",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "networkings\", Computer Networks, 2017.",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "Mohammad Mahdi Kazemian, Meghdad",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "23",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "Mirabi. \"Controller placement in software",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "deﬁned networks using multi-objective",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "antlion algorithm\", The Journal of",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "Supercomputing, 2021",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "www.semanticscholar.org",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "24",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "www.tvassignmenthelp.com",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "25",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "Tao Han, Syed Rooh Ullah Jan, Zhiyuan Tan,",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "26",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "Muhammad Usman, Mian Ahmad Jan, Rahim",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "Khan, Yongzhao Xu. \"A comprehensive survey",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "of security threats and their mitigation",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "techniques for next‐generation SDN",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "controllers\", Concurrency and Computation:",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "Practice and Experience, 2019",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "Submitted to University of Greenwich",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "27",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "core.ac.uk",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "28",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "vishwalata.co.in",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "29",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 47,
+    "subheadings": []
+  },
+  {
+    "title": "Abha Kumari, Ashok Singh Sairam. \"Controller",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "30",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "placement problem in software‐deﬁned",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "networking: A survey\", Networks, 2021",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Submitted to South Bank University",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "31",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Bala Prakasa Rao Killi, Seela",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "32",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Veerabhadreswara Rao. \"Optimal Model for",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Failure Foresight Capacitated Controller",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Placement in Software-Deﬁned Networks\",",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "IEEE Communications Letters, 2016",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Daniel S. Fonseca, Elizabeth F. Wanner,",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "33",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Carolina G. Marcelino, Gabriel P. Silva, Silvia",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Jimenez-Fernandez, Sancho Salcedo-Sanz.",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "\"Chapter 24 Active GA Accelerated",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "bySimulated Annealing toSolve SPP inPacket",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Networks\", Springer Science and Business",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Media LLC, 2022",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Joshua Jacob, Sumedha Shinde, Narayan D.G..",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "34",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "\"An Eﬃcient Controller Placement Algorithm",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "using Clustering in Software Deﬁned",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Networks\", Journal of Telecommunications",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "and Information Technology, 2023",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "ocio.wa.gov",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "35",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 48,
+    "subheadings": []
+  },
+  {
+    "title": "Bala Prakasa Rao Killi, Seela",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "36",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "Veerabhadreswara Rao. \"Controller",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "placement in software deﬁned networks: A",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "Comprehensive survey\", Computer Networks,",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "2019",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "ouci.dntb.gov.ua",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "37",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "profdoc.um.ac.ir",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "38",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "Ijaz Ahmad, Suneth Namal, Mika Ylianttila,",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "39",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "Andrei Gurtov. \"Security in Software Deﬁned",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "Networks: A Survey\", IEEE Communications",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "Surveys & Tutorials, 2015",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "repositori.upf.edu",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "40",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "www.jsjkx.com",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "41",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "www.open-access.bcu.ac.uk",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "42",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "Bang Zhang, Xingwei Wang, Min Huang.",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "43",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "\"Multi-objective optimization controller",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "placement problem in internet-oriented",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "software deﬁned network\", Computer",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "Communications, 2018",
+    "page": 49,
+    "subheadings": []
+  },
+  {
+    "title": "RRS Molose, Bassey Isong, Nosipho Dladlu,",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "44",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Adnan Abu-Mahfouz. \"A Novel Energy-Aware",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "SDWSN Controller Placement Scheme\", 2023",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "International Conference on Electrical,",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Computer and Energy Technologies (ICECET),",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "2023",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Wen Chen, Cong Chen, Xueqin Jiang, Leijie",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "45",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Liu. \"Multi-Controller Placement towards SDN",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Based on Louvain Heuristic Algorithm\", IEEE",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Access, 2018",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Ran Xu, Fenghua Wang, Robert E. Kooij.",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "46",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "\"Controller Placement with Respect to",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Controller Reachability\", 2023 7th",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "International Conference on System",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Reliability and Safety (ICSRS), 2023",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Su, Zhiyang. \"Eﬃciency Optimization for",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "47",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Software Deﬁned Networks.\", Hong Kong",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "University of Science and Technology (Hong",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Kong), 2017",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Ashutosh Kumar Singh, Shashank Srivastava.",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "48",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "\"A survey and classiﬁcation of controller",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "placement problem in SDN\", International",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Journal of Network Management, 2018",
+    "page": 50,
+    "subheadings": []
+  },
+  {
+    "title": "Bala Prakasa Rao Killi, Seela",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "49",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "Veerabhadreswara Rao. \"On Placement of",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "Hypervisors and Controllers in Virtualized",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "Software Deﬁned Network\", IEEE",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "Transactions on Network and Service",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "Management, 2018",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "Binod Sapkota, Babu R Dawadi, Shashidhar R",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "50",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "Joshi. \"Controller placement problem during",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "SDN deployment in the ISP/Telco networks: A",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "survey\", Engineering Reports, 2023",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "Tamal Das, Vignesh Sridharan, Mohan",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "<",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "51",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "Gurusamy. \"A Survey on Controller Placement",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "in SDN\", IEEE Communications Surveys &",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "Tutorials, 2020",
+    "page": 51,
+    "subheadings": []
+  },
+  {
+    "title": "import numpy as np.docx",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "8",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "306",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "%%%%",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "Submitted to University of Leicester",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "6",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "1",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "www.coursehero.com",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "3",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "2",
+    "page": 52,
+    "subheadings": []
+  },
+  {
+    "title": "%",
+    "page": 52,
+    "subheadings": []
+  }
+]
